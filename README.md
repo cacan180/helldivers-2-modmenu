@@ -1,10 +1,5 @@
-# Blender-CM3D2-Converter
-　3Dアダルトゲーム「[カスタムメイド3D2](http://kisskiss.tv/cm3d2/)」で使用されるモデルファイル形式(.model)を  
-　フリー3D統合環境である「[Blender](https://www.blender.org/)」で扱うためのアドオンです。  
-　ある程度Blenderの基本操作をできる人を対象にしています、  
-　初めての人は[Blenderのチュートリアル](https://www.google.co.jp/#q=Blender+%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB)などから始めましょう。  
-　慣れてきたら[CM3D2 Converterのチュートリアル](http://seesaawiki.jp/eastpoint/d/blender_MOD01)もやってみましょう。  
-
+# HellDivers 2 Mod Menu / Hack
+　
 ## 目次
 * [インストール](#インストール)
 * [使い方](#使い方)
@@ -15,18 +10,7 @@
 * [課題](#課題)
 
 ## インストール
-　まず、Blender2.7以上([2.76b](http://download.blender.org/release/Blender2.76/)推奨)がインストールされており[日本語化](http://ch.nicovideo.jp/hiiragik/blomaga/ar501365)している事が前提です。  
-　画面右上の緑色の「Clone or download」→「[Download ZIP](https://github.com/CM3Duser/Blender-CM3D2-Converter/archive/master.zip)」からファイルをダウンロード・解凍し、  
-　Windows7なら「C:\Users\ユーザー名\AppData\Roaming\Blender Foundation\  
-　Blender\2.75\scripts\addons\CM3D2 Converter\＊.py」となるように配置してください。  
-　もしかしたらフォルダが存在しないかもしれませんが、その場合は作成してください。  
-　![配置](http://i.imgur.com/QvbMDR1.jpg)  
-　Blenderを起動しユーザー設定のアドオンタブで「cm3d」等で検索、  
-　「Import-Export: CM3D2 Converter」をオンにすれば一時的に有効になります。  
-　次回起動時からも有効にしておきたい場合は「ユーザー設定の保存」をクリックして下さい。  
-　![有効化](http://i.imgur.com/6jmFWxQ.jpg)  
-　一度インストールしてしまえば、アドオン設定画面かヘルプメニューからアップデート可能です。  
-　![更新](http://i.imgur.com/KFvMeH0.jpg)  
+
 
 ## 使い方
 　各種ファイルは.arcファイルから[CM3D2 Tool](http://www.hongfire.com/forum/showthread.php/445616)等で取り出しておいて下さい。  
